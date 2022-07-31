@@ -1,1 +1,0 @@
-<div class="alert alert-success text-center">thanh cong</div>
