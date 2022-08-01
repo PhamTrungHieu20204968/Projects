@@ -31,9 +31,13 @@
 - **XAMPP Server**
 #### Vai trò
 Đây là dự án cá nhân đầu tiên của em:
-1.Thiết kế api, xử lý backend
+
+1. Thiết kế api, xử lý backend
+
 2. Thiết kế giao diện, xử lý frontend
+
 3. Thiết kế database
+
 Phần em đầu tư nhất cho dự án này là:Em đã code trang web 2 lần.Lần đầu tiên em chỉ sử dụng Lavarel thì trang web của em thực hiện được hết các chức năng(cả yêu cầu bắt buộc login,demo: https://youtu.be/Jw9V9vJ0SyQ ) ,lần thứ 2 là sử dụng cả lavarel và reactjs.
 
 Em cảm thấy khó nhất là phần thiết kế login cho trang web.Hiện tại trang login của em đã có thể kiểm tra được tài khoản và mật khẩu nhưng chưa thể yêu cầu bắt buộc đăng nhập.
