@@ -11,6 +11,10 @@
 4. Xóa nhà hàng
 
 **DEMO:** https://youtu.be/FK3429JlzS4
+
+**Heroku** https://nhahangfrontend.herokuapp.com/
+- username:user1
+- pass:pass1
 ### Công nghệ được sử dụng và vai trò trong sản phẩm
 #### Công nghệ
 - **ReactJS** 
